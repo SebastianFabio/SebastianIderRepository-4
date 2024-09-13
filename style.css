@@ -8,3 +8,23 @@ p{
 body {
   background-image: url("grainy.jfif");
 }
+h1{
+	color: orange;
+
+
+}
+.matthew{
+
+border: 12px outset orange;
+}
+.mat{
+	text-align: center;
+}
+h2{
+	color: orange;
+}
+h5{
+	color:white;
+	font-size: 35px;
+	text-align: center;
+}
