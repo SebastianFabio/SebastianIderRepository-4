@@ -7,5 +7,12 @@ $(document).ready(function () {
             });
 			$(".imagie").click(function () { 
                 $(".harold").toggle("swing"); 
-            }); 			
+            });
+			$(".correct").click(function (){
+				$(this).css("color", "green")();
+			});
+			$(".wrong").click(function (){
+				$(this).css("color", "red")();
+			});
         }); 
+		
